@@ -1,1 +1,1 @@
-# functional-and-logic-programming
+# 🤔 Functional and Logic Programming
